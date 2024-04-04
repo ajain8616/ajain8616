@@ -4,7 +4,7 @@
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="Coding" align="right"  width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajain8616&label=Profile%20views&color=0e75b6&style=flat" alt="ajain8616" /> </p>
 
-- 🔭 I’m currently working on **Activity Tracker Android**
+- 🔭 I’m currently working on **Activity Tracker Android App**
 
 - 🌱 I’m currently learning **Android,Java,Kotlin,Web_Development,React Js**
 
