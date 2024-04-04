@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arihant Jain</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="Coding" align="right"  width="400">
-- 🔭 I’m currently working on **Block-Chain Based Technology Android Application**
+- 🔭 I’m currently working on **Android Applications**
 
 - 🌱 I’m currently learning **Android, Java, Kotlin, Web Development etc.**
 
@@ -10,15 +10,15 @@
 
 - 🤝 I’m looking for help with **Android Development Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ajain8616](https://github.com/ajain8616)
+- 👨‍💻 All of my projects are available at (https://github.com/ajain8616)
 
 - 📝 I regularly read articles on [https://developer.android.com/courses/android-basics-kotlin/course](https://developer.android.com/courses/android-basics-kotlin/course)
 
-- 💬 Ask me about **Android, Java etc.**
+- 💬 Ask me about **Android, Java, Kotlin,Web Developement etc.**
 
 - 📫 How to reach me **ajain8616@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/arihant-jain-aa2535232](https://www.linkedin.com/in/arihant-jain-aa2535232)
+- 📄 Know about my experiences (https://www.linkedin.com/in/arihant-jain-aa2535232)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
