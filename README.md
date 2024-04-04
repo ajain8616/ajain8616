@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Activity Tracker Android App**
 
-- 🌱 I’m currently learning **Android,Java,Kotlin,Web_Development,React Js**
+- 🌱 I’m currently learning **Android,Java,Kotlin,Web_Development,React Js etc.**
 
 - 👯 I’m looking to collaborate on **Android Development Projects**
 
@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://developer.android.com/courses/android-basics-compose/course](https://developer.android.com/courses/android-basics-compose/course)
 
-- 💬 Ask me about **Android,Java,Kotlin,Web_Development,React Js**
+- 💬 Ask me about **Android,Java,Kotlin,Web_Development,React Js etc.**
 
 - 📫 How to reach me **ajain8616@gmail.com,https://www.linkedin.com/in/arihant-jain-aa2535232**
 
